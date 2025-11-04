@@ -15,85 +15,15 @@
       <itunes:category text="Natural Sciences"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:owner>
-      <itunes:name>AIPodCast Generator</itunes:name>
-      <itunes:email>darren.frost@gmail.com</itunes:email>
-    </itunes:owner>
     <item>
       <title>Decoded: AI, Big Data, and Tech Futures</title>
       <description>&lt;p&gt;Decoded: AI, Big Data, and Tech Futures&lt;/p&gt;</description>
-      <guid isPermaLink="false">0f9863b1-2c74-470b-ae2b-69352668aa37</guid>
-      <pubDate>Tue, 04 Nov 2025 08:09:59 +0000</pubDate>
-      <enclosure url="https://dfrostar.github.io/podcast/audio/podcast_20251104_080719.mp3" type="audio/mpeg" length="16632044"/>
-      <itunes:duration>14:41</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episode>1003</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Decoded: AI, Big Data, and Tech Futures</title>
-      <description>&lt;p&gt;Decoded: AI, Big Data, and Tech Futures&lt;/p&gt;</description>
-      <guid isPermaLink="false">fb2e4dd5-7868-489f-896c-f72dad623117</guid>
-      <pubDate>Tue, 04 Nov 2025 07:41:41 +0000</pubDate>
-      <enclosure url="https://dfrostar.github.io/podcast/audio/podcast_20251104_074026.mp3" type="audio/mpeg" length="4885484"/>
+      <guid isPermaLink="false">d1106c7f-946b-4ca7-b6af-6b58d8031bc0</guid>
+      <pubDate>Tue, 04 Nov 2025 12:51:39 +0000</pubDate>
+      <enclosure url="https://dfrostar.github.io/podcast/audio/podcast_20251104_124743.mp3" type="audio/mpeg" length="25225484"/>
       <itunes:duration>29:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:episode>1002</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Decoded: AI, Big Data, and Tech Futures</title>
-      <description>&lt;p&gt;Decoded: AI, Big Data, and Tech Futures&lt;/p&gt;</description>
-      <guid isPermaLink="false">92e05f5c-1cef-44ed-bf50-a3502cd825f4</guid>
-      <pubDate>Tue, 04 Nov 2025 07:39:41 +0000</pubDate>
-      <enclosure url="https://dfrostar.github.io/podcast/audio/podcast_20251103_230520.mp3" type="audio/mpeg" length="23839724"/>
-      <itunes:duration>29:24</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episode>1001</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Test Episode: AI Breakthroughs in Machine Learning</title>
-      <description>&lt;p&gt;Test Episode: AI Breakthroughs in Machine Learning&lt;/p&gt;&lt;p&gt;Welcome to Decoded, your weekly podcast covering the latest in AI, Big Data, and tech futures. Today we're diving into some exciting developments in machine learning....&lt;/p&gt;</description>
-      <guid isPermaLink="false">690dd1e7-1c95-4bf7-9671-9f4b632c0d63</guid>
-      <pubDate>Mon, 03 Nov 2025 22:57:15 +0000</pubDate>
-      <enclosure url="https://dfrostar.github.io/podcast/audio/test_pipeline_episode.mp3" type="audio/mpeg" length="1024004"/>
-      <itunes:duration>25:30</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episode>1000</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Test Episode: Complete Publishing Pipeline</title>
-      <description>&lt;p&gt;This is a test episode to verify the complete publishing pipeline.&lt;/p&gt;</description>
-      <guid isPermaLink="false">059ea3e9-0c50-472f-97d8-ef86d26dd3b7</guid>
-      <pubDate>Mon, 03 Nov 2025 22:50:32 +0000</pubDate>
-      <enclosure url="https://dfrostar.github.io/podcast/audio/test_episode.mp3" type="audio/mpeg" length="2048000"/>
-      <itunes:duration>20:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episode>999</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Test Episode: AI Breakthroughs</title>
-      <description>&lt;p&gt;This is a test episode about AI breakthroughs in 2025.&lt;/p&gt;</description>
-      <guid isPermaLink="false">8b6bd296-80e3-4389-9efd-b8e04a7df936</guid>
-      <pubDate>Mon, 03 Nov 2025 22:38:49 +0000</pubDate>
-      <enclosure url="https://dfrostar.github.io/podcast/audio/test_episode.mp3" type="audio/mpeg" length="1024000"/>
-      <itunes:duration>10:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Test Episode: AI Breakthroughs</title>
-      <description>&lt;p&gt;This is a test episode about AI breakthroughs in 2025.&lt;/p&gt;</description>
-      <guid isPermaLink="false">39576e51-b193-4219-adcd-5aa8589b082a</guid>
-      <pubDate>Mon, 03 Nov 2025 22:37:41 +0000</pubDate>
-      <enclosure url="https://dfrostar.github.io/podcast/audio/test_episode.mp3" type="audio/mpeg" length="1024000"/>
-      <itunes:duration>10:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>1004</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
