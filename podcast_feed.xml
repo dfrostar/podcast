@@ -1,13 +1,13 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Decoded: AI, Big Data, and Tech Futures</title>
+    <title>DECODED</title>
     <description>Weekly podcast covering the latest developments in AI, Big Data, and technology futures. Exploring cutting-edge research, industry trends, and their real-world implications.</description>
-    <link>https://dfrostar.github.io/podcast</link>
+    <link>https://your-website.com</link>
     <language>en-US</language>
     <copyright>Copyright 2025</copyright>
     <itunes:author>AIPodCast Generator</itunes:author>
     <itunes:summary>Weekly podcast covering the latest developments in AI, Big Data, and technology futures. Exploring cutting-edge research, industry trends, and their real-world implications.</itunes:summary>
-    <itunes:image href="https://dfrostar.github.io/podcast/cover_art/cover_art.png"/>
+    <itunes:image href="https://your-domain.com/podcast/cover-art.jpg"/>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
@@ -15,10 +15,6 @@
       <itunes:category text="Natural Sciences"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:owner>
-      <itunes:name>AIPodCast Generator</itunes:name>
-      <itunes:email>darren.frost@gmail.com</itunes:email>
-    </itunes:owner>
     <item>
       <title>Decoded: AI, Big Data, and Tech Futures</title>
       <description>&lt;p&gt;Decoded: AI, Big Data, and Tech Futures&lt;/p&gt;</description>
